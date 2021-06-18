@@ -1,0 +1,14 @@
+C:\Users\acer\documents\visual studio 2010\Projects\jweller loyality\jweller loyality\bin\Debug\jweller loyality.exe.config
+C:\Users\acer\documents\visual studio 2010\Projects\jweller loyality\jweller loyality\obj\x86\Debug\jweller loyality.exe
+C:\Users\acer\documents\visual studio 2010\Projects\jweller loyality\jweller loyality\obj\x86\Debug\jweller loyality.pdb
+C:\Users\acer\documents\visual studio 2010\Projects\jweller loyality\jweller loyality\bin\Debug\jweller loyality.exe
+C:\Users\acer\documents\visual studio 2010\Projects\jweller loyality\jweller loyality\bin\Debug\jweller loyality.pdb
+C:\Users\acer\documents\visual studio 2010\Projects\jweller loyality\jweller loyality\obj\x86\Debug\jweller loyality.csprojResolveAssemblyReference.cache
+C:\Users\acer\documents\visual studio 2010\Projects\jweller loyality\jweller loyality\obj\x86\Debug\jweller_loyality.create.resources
+C:\Users\acer\documents\visual studio 2010\Projects\jweller loyality\jweller loyality\obj\x86\Debug\jweller_loyality.Form1.resources
+C:\Users\acer\documents\visual studio 2010\Projects\jweller loyality\jweller loyality\obj\x86\Debug\jweller_loyality.main.resources
+C:\Users\acer\documents\visual studio 2010\Projects\jweller loyality\jweller loyality\obj\x86\Debug\jweller_loyality.modify.resources
+C:\Users\acer\documents\visual studio 2010\Projects\jweller loyality\jweller loyality\obj\x86\Debug\jweller_loyality.old.resources
+C:\Users\acer\documents\visual studio 2010\Projects\jweller loyality\jweller loyality\obj\x86\Debug\jweller_loyality.Properties.Resources.resources
+C:\Users\acer\documents\visual studio 2010\Projects\jweller loyality\jweller loyality\obj\x86\Debug\jweller loyality.csproj.GenerateResource.Cache
+C:\Users\acer\documents\visual studio 2010\Projects\jweller loyality\jweller loyality\obj\x86\Debug\jweller_loyality.Analyze.resources
